@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://du6iju84i4gpy"
+path="res://.godot/imported/sfx_coin.ogg-9560ca44e2fa680505665e3aa2625cab.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/alien - kenney assets/Sounds/sfx_coin.ogg"
+dest_files=["res://.godot/imported/sfx_coin.ogg-9560ca44e2fa680505665e3aa2625cab.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

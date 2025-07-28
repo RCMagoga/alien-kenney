@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cq1s06c1nj4p3"
+path="res://.godot/imported/sfx_jump.ogg-3742f32d3b83947ebbdc9b9348e73eba.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/alien - kenney assets/Sounds/sfx_jump.ogg"
+dest_files=["res://.godot/imported/sfx_jump.ogg-3742f32d3b83947ebbdc9b9348e73eba.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

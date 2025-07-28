@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cjt5gi6xpc2j1"
+path="res://.godot/imported/sfx_hurt.ogg-a2cfe76231b2d1ca0efd0e301f7cf534.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/alien - kenney assets/Sounds/sfx_hurt.ogg"
+dest_files=["res://.godot/imported/sfx_hurt.ogg-a2cfe76231b2d1ca0efd0e301f7cf534.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
