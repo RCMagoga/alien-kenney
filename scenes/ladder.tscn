@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://yvoua2dn154c"]
+
+[ext_resource type="Script" uid="uid://cjj760t33vd1o" path="res://scripts/ladder.gd" id="1_xxwne"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_htnmx"]
+size = Vector2(64, 64)
+
+[node name="Ladder" type="Area2D" groups=["ladder"]]
+z_index = -10
+script = ExtResource("1_xxwne")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_htnmx")
